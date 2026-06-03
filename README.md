@@ -1,4 +1,4 @@
-## Hi there 👋
+## 20253278 최정우
 
 <!--
 **ChoiJoungWoo410/ChoiJoungWoo410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
